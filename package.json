@@ -5,14 +5,11 @@
   , "dependencies": {
       "express": "2.5.8"
     , "jade": ">= 0.0.1"
-    , "connect-assets": "*"
     , "coffee-script": "*"
     , "stylus": "*"
     , "nib": "*"
     , "markdown": "*"
-    , "stepc": "*"
     , "request": "*"
-    , "easy-oauth": "*"
   }
   , "engine": "node ~> 0.6.7"
 }
